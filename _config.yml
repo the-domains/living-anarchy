@@ -6,9 +6,10 @@ color:
   saturation: 0.02504587033763528
   rhythmicContrast: 0.6746111290995032
   brandColors:
-    - '#85DB18'
-    - '#CDE855'
-    - '#F5F6D4'
-    - '#A7C520'
-    - '#493F0B'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: living anarchy
+title: LET LIFE LIVE
