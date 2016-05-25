@@ -1,7 +1,7 @@
 ---
 description: 'http://www.lifeinkorea.com/information/Trans/taxis.cfm'
-dateModified: '2016-05-25T09:32:59.959Z'
-datePublished: '2016-05-25T09:33:00.108Z'
+dateModified: '2016-05-25T09:32:53.628Z'
+datePublished: '2016-05-25T09:33:14.518Z'
 title: Fun times on Osan AB
 author: []
 starred: true
